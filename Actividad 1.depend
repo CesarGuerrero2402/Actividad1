@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1692218003 source:c:\users\usuario\desktop\actividad 1\actividad 1\main.cpp
+	<iostream>
+	"Paquete.h"
+	"Paqueteria.h"
+	<string>
+
+1692218043 c:\users\usuario\desktop\actividad 1\actividad 1\paquete.h
+	<string>
+
+1692218104 c:\users\usuario\desktop\actividad 1\actividad 1\paqueteria.h
+	"Paquete.h"
+	<iostream>
+
+1692218003 source:c:\users\usuario\desktop\actividad 1\actividad 1\paquete.cpp
+	"Paquete.h"
+
+1692218259 source:c:\users\usuario\desktop\actividad 1\actividad 1\paqueteria.cpp
+	"Paqueteria.h"
+
+1692679242 source:c:\users\bille\desktop\tareas\4to inni\seminario de algoritmia\actividad 1\main.cpp
+	<iostream>
+	"Paquete.h"
+	"Paqueteria.h"
+	<string>
+	<fstream>
+
+1692678633 c:\users\bille\desktop\tareas\4to inni\seminario de algoritmia\actividad 1\paquete.h
+	<string>
+	<fstream>
+
+1692679242 c:\users\bille\desktop\tareas\4to inni\seminario de algoritmia\actividad 1\paqueteria.h
+	"Paquete.h"
+	<iostream>
+	<fstream>
+
+1692678633 source:c:\users\bille\desktop\tareas\4to inni\seminario de algoritmia\actividad 1\paquete.cpp
+	"Paquete.h"
+	<fstream>
+
+1692683416 source:c:\users\bille\desktop\tareas\4to inni\seminario de algoritmia\actividad 1\paqueteria.cpp
+	"Paqueteria.h"
+	<fstream>
+
